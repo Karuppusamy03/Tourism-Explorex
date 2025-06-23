@@ -74,13 +74,13 @@ Tourism Explorex is an intelligent travel companion web application that enhance
    python app.py
 
 
-##📊 Machine Learning Models
+## 📊 Machine Learning Models
 
 -**Gradient Boosting**: For high-accuracy cost prediction.
 -**Random Forest**:  Robust to overfitting, handles classification.
 -**Support Vector Machine (SVM)**: Optimal classification boundaries.
 
-##🧪 Testing
+## 🧪 Testing
 
 -Unit testing with pytest
 -Integration tests for APIs and model interaction
