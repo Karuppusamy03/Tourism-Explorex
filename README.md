@@ -1,8 +1,4 @@
-# Tourism-Explorex
-from pathlib import Path
 
-# Define the content of the README.md
-readme_content = """
 # 🌍 Tourism Explorex: ML-Powered Travel Companion
 
 **Smart Travel: ML-Powered Predictive Travel Expense with Real-Time Assistance and Data Processing**
