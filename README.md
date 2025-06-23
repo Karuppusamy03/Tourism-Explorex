@@ -36,18 +36,6 @@ Tourism Explorex is an intelligent travel companion web application that enhance
 
 ---
 
-## 📷 Screenshots
-
-| Feature              | Screenshot Preview |
-|----------------------|--------------------|
-| Home Page            | `assets/screenshots/homepage.png` |
-| Login / Register     | `assets/screenshots/login.png` |
-| Map Navigation       | `assets/screenshots/maps.png` |
-| Expense Prediction   | `assets/screenshots/predict.png` |
-| Chatbot Assistant    | `assets/screenshots/chatbot.png` |
-
----
-
 ## 📁 Installation Guide
 
 1. Clone the repository:
@@ -99,17 +87,6 @@ Tourism Explorex is an intelligent travel companion web application that enhance
 | **Chatbot & Voice Assistant** | Offers real-time travel support, app navigation help, and general queries via chat and voice commands. |
 | **Weather & Location API Integration** | Fetches real-time weather forecasts and geolocation details using Google Maps and OpenWeatherMap APIs. |
 """
-
-# 🧠 How It Works
-
-The platform leverages machine learning models to analyze user preferences, travel history, and environmental data to:
-
-- 🧾 **Predict budget needs for trips**
-- 🌐 **Recommend personalized places and activities**
-- 💬 **Respond to queries through chat and voice interfaces**
-Let me know if you want this combined with other sections into a single file. 
-
-
 
 # 🧠 How It Works
 
@@ -192,5 +169,17 @@ The platform follows a multi-layered approach to serve personalized, efficient, 
 - Estimated expenses
 - Review collection
 - Real-time alerts and suggestions
+
+---
+
+## 📷 Screenshots
+
+| Feature              | Screenshot Preview |
+|----------------------|--------------------|
+| Home Page            | `assets/screenshots/homepage.png` |
+| Login / Register     | `assets/screenshots/login.png` |
+| Map Navigation       | `assets/screenshots/maps.png` |
+| Expense Prediction   | `assets/screenshots/predict.png` |
+| Chatbot Assistant    | `assets/screenshots/chatbot.png` |
 
 ---
